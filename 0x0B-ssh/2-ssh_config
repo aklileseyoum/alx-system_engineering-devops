@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#ssh client configuration to refuse authentication 
+Host 35.170.76.97
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/school
