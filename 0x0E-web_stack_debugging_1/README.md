@@ -1,1 +1,1 @@
-readme for web stack debugging
+web stach debugging part 2
